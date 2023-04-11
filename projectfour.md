@@ -394,3 +394,9 @@ app.controller('myCtrl', function($scope, $http) {
 #### To access it on the internet, we edit inbound rules on our instance set up TCP port 3300 by clicking on Add Rule in our EC2 Instance
 
 ![like so](./images/edit-inbound-rules-port3300.png)
+
+
+#### Access the page with:
+>`http://13.40.104.201:3300`
+
+![like so](./images/access-webpage-angularjs.png)
